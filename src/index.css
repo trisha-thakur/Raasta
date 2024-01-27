@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Space+Mono:wght@700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0; 
+  background-image: url(../src/assets/mapbg.png);
+  /* background-position: center; */
+  background-size: cover; 
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  font-family: 'Orbitron';
+  /* overflow: hidden; Prevent scrolling on the body  */
+}
+
+html {
+  margin: 0;
+  padding: 0; 
+  scroll-behavior: smooth;
+}
+
+.updates {
+  position:absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+}
