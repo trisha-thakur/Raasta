@@ -101,7 +101,7 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 ![WhatsApp Image 2024-01-28 at 14 20 28](https://github.com/trisha-thakur/Raasta/assets/34826479/21047fdf-67b3-47a3-88aa-d0a0fafb9691)
 
 
-
+### Challan summariser and helper LLM with indic languages support
 
 
 ![WhatsApp Image 2024-01-28 at 14 21 41](https://github.com/trisha-thakur/Raasta/assets/34826479/d45e1a7c-1a6f-4d90-8132-7a1f96c69ef2)
