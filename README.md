@@ -60,19 +60,22 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 - ### The query chatbot also has Speech to Speech conversation feature made out of a pipeline of `Distilled Whisper LLM` and `gTTS`, additionally we have also tested `PLAYHT` for the same use case
 - ### The RAG models like Llama2 were fine-tuned with efficient hyper-parameter methods like `Qlora` to save the VRAM efficiency
 
-## Tech Stack
+## Technology Used 💻
 
-### Web:
+### Web: 
 
-#### React + Vite
-#### TailwindCSS
-#### Flask
+- React + Vite
+- TailwindCSS
+- Flask
 
-### ML:
+### ML: 🧠
 
-#### Data Scraping for real-time data(selenium & Beautiful soup). 
-#### RAG powered models.(Mistral 7B model with finetuning)
-#### Indic language support. (Indictrans2 LLM from AI4bharat)
+- Data Scraping for real-time data(selenium & Beautiful soup). 
+- RAG powered models.(Mistral 7B model with finetuning)
+- Indic language support. (Indictrans2 LLM from AI4bharat)
+- Speech to Speech models ( Distilled Whisper and PlayHT with gTTS) for Indic languages support
+- Finetuned Llama models on dataset for more efficiency
+
 
 ## Web Implementation
 ![WhatsApp Image 2024-01-28 at 14 19 28_ac27fe53](https://github.com/trisha-thakur/Raasta/assets/107291403/69780779-e83e-4674-8482-fe7736ae240a)
