@@ -33,7 +33,7 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 - New Tech Integration: 🛠
   - Incorporates new technologies and frameworks for improved efficiency and functionality.
 
-## Architechture 🐏🐏
+## Architecture 🐏🐏
 <img width="473" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/35c92c2b-bbe7-4ab0-84f2-534f2ca1d43c">
 
 
