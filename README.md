@@ -94,6 +94,9 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 
 ![WhatsApp Image 2024-01-28 at 16 03 08](https://github.com/trisha-thakur/Raasta/assets/34826479/e85e8979-965f-4663-986b-b3415f7e7a1a)
 
+<img width="629" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/4113082b-7c8d-49d9-914a-40fc8d67299e">
+
+
 ### Live traffic updates
 
 ![WhatsApp Image 2024-01-28 at 14 20 06](https://github.com/trisha-thakur/Raasta/assets/34826479/911e9da0-9d6e-4106-9830-cdb62dd44810)
@@ -153,6 +156,24 @@ Raasta envisions further enhancements and scalability to meet evolving user need
   - Strengthening security measures to safeguard user data and maintain the integrity of the system.
 
 Raasta remains committed to continuous innovation, adaptability, and providing an ever-improving urban mobility solution.
+
+
+### Model results
+
+#### Fine tuning results 
+ 
+<img width="128" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/366b0b72-ea84-4f62-a7b5-2ca509441521">
+
+<img width="476" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/0b21b859-16fb-49c2-b6ec-0f5e29c0ec2d">
+
+<img width="457" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/85c62500-285f-42bb-9755-da1d65ac54f0">
+
+<img width="453" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/8472ce06-7dfa-4304-8362-5a8d6ff718fa">
+
+<img width="476" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/ef339e85-9f8f-4333-a162-4fd3e98eb4c3">
+
+
+
 
 
 
