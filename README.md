@@ -84,15 +84,17 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 
 ![WhatsApp Image 2024-01-28 at 14 19 28_ac27fe53](https://github.com/trisha-thakur/Raasta/assets/107291403/69780779-e83e-4674-8482-fe7736ae240a)
 
+### Chatbot with Language Support
+
 ![WhatsApp Image 2024-01-28 at 16 22 48](https://github.com/trisha-thakur/Raasta/assets/34826479/01fc9ee6-004c-41ed-bb3c-84806a00b6bd)
 
-### Chatbot with Language Support
+![WhatsApp Image 2024-01-28 at 16 25 37](https://github.com/trisha-thakur/Raasta/assets/34826479/9e6e8d3d-890e-4f28-b334-8029193755bf)
 
 ![WhatsApp Image 2024-01-28 at 16 03 08](https://github.com/trisha-thakur/Raasta/assets/34826479/e85e8979-965f-4663-986b-b3415f7e7a1a)
 
 ![WhatsApp Image 2024-01-28 at 14 20 06](https://github.com/trisha-thakur/Raasta/assets/34826479/911e9da0-9d6e-4106-9830-cdb62dd44810)
 
-![WhatsApp Image 2024-01-28 at 16 25 37](https://github.com/trisha-thakur/Raasta/assets/34826479/9e6e8d3d-890e-4f28-b334-8029193755bf)
+
 
 
 ![WhatsApp Image 2024-01-28 at 14 20 28](https://github.com/trisha-thakur/Raasta/assets/34826479/21047fdf-67b3-47a3-88aa-d0a0fafb9691)
