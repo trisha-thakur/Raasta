@@ -73,7 +73,7 @@ const Updates = () => {
 
         <button
           onClick={fetchTrafficUpdates}
-          className="border bg-[#FFFFEC] text-black px-6 py-3 rounded-md hover:bg-[#C6A969] transform transition-transform duration-300 hover:scale-110 mt-8"
+          className="border bg-[#C6A969] text-black px-6 py-3 rounded-md hover:bg-[#F1E4C3] transform transition-transform duration-300 hover:scale-110 mt-8"
         >
           Get Traffic Updates
         </button>

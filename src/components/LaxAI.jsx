@@ -14,11 +14,11 @@ const LaxAI = () => {
   };
 
   return (
-    <section className="h-screen w-full pt-8 pb-24 font-bold bg-[#597E52] heading relative overflow-hidden left-0 right-0">
-      <h1 className="text-7xl ml-10 text-[#F1E4C3]">LAXAI</h1>
-      <div className="flex flex-col absolute right-80 mr-10 p-5 z-10">
+    <section className="h-screen w-full pt-8 pb-24 font-bold bg-[#597E52] heading relative left-0 right-0">
+      <h1 className="text-4xl md:text-7xl ml-10 text-[#F1E4C3]">LAXAI</h1>
+      <div className="flex flex-col md:absolute md:right-80 md:mr-10 p-5 z-10">
         <div className="mb-2 flex flex-col">
-          <label className="text-[#F1E4C3] font-bold mb-2 text-2xl">
+          <label className="text-[#F1E4C3] font-bold mb-2 text-lg md:text-2xl">
             What is your budget?{" "}
           </label>
           <input
@@ -27,7 +27,7 @@ const LaxAI = () => {
           />
         </div>
         <div className="mb-2 flex flex-col">
-          <label className="text-[#F1E4C3] font-bold mb-2 text-2xl">
+          <label className="text-[#F1E4C3] font-bold mb-2 text-lg md:text-2xl">
             Where are you travelling from?{" "}
           </label>
           <input
@@ -36,7 +36,7 @@ const LaxAI = () => {
           />
         </div>
         <div className="mb-2 flex flex-col">
-          <label className="text-[#F1E4C3] font-bold mb-2 text-2xl">
+          <label className="text-[#F1E4C3] font-bold mb-2 text-lg md:text-2xl">
             Where are you travelling to?{" "}
           </label>
           <input
@@ -45,10 +45,9 @@ const LaxAI = () => {
           />
         </div>
         <div className="flex items-center">
-          {" "}
           <button
             onClick={openModal}
-            className="border bg-[#FFFFEC] text-black px-6 py-3 rounded-md hover:bg-[#C6A969] transform transition-transform duration-300 hover:scale-110 mt-8"
+            className="border bg-[#FFFFEC] text-lg md:text-2xl text-black px-6 py-3 rounded-md hover:bg-[#C6A969] transform transition-transform duration-300 hover:scale-110 mt-4 md:mt-8"
           >
             ENTER
           </button>
