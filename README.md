@@ -70,11 +70,12 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 
 ### ML: 🧠
 
-- Data Scraping for real-time data(selenium & Beautiful soup). 
+- Data Scraping for real-time data(selenium & Beautiful soup)
 - RAG powered models.(Mistral 7B model with finetuning)
 - Indic language support. (Indictrans2 LLM from AI4bharat)
 - Speech to Speech models ( Distilled Whisper and PlayHT with gTTS) for Indic languages support
 - Finetuned Llama models on dataset for more efficiency
+- OCR models for image to text
 
 
 ## Web Implementation
