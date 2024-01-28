@@ -85,15 +85,15 @@ function Chatbot({ onClose }) {
   };
 
   return (
-    <div className="chatbot-container bg-[#F1E4C3] text-[#597E52] fixed bottom-4 right-4 w-[440px] max-h-[634px] p-6 rounded-lg border border-[#e5e7eb] overflow-auto">
+    <div className="chatbot-container bg-[#F1E4C3] text-[#597E52] fixed bottom-4 right-4 w-[90vw] max-w-[440px] max-h-[80vh] p-6 rounded-lg border border-[#e5e7eb] overflow-auto">
       <h2 className="font-semibold text-lg tracking-tight">Chatbot</h2>
 
-      <div className="flex items-center justify-between mb-4">
-        <label className="text-[#6b7280] text-sm">Select Language:</label>
+      <div className="flex flex-col items-center mt-4">
+        <label className="text-[#6b7280] text-sm mb-2">Select Language:</label>
         <select
           value={selectedLanguage}
           onChange={(e) => setSelectedLanguage(e.target.value)}
-          className="border text-black border-black rounded-md p-2"
+          className="border text-black border-black rounded-md p-2 w-full"
         >
           {languageOptions.map((option) => (
             <option key={option.value} value={option.value}>
@@ -103,7 +103,7 @@ function Chatbot({ onClose }) {
         </select>
       </div>
 
-      <div className="pr-4 max-h-[474px] overflow-auto">
+      <div className="pr-4 max-h-[474px] overflow-auto mt-4">
         {messages.map((message, index) => (
           <div
             key={index}
@@ -116,7 +116,7 @@ function Chatbot({ onClose }) {
         ))}
       </div>
 
-      <div className="flex items-center pt-4">
+      <div className="flex items-center mt-4">
         <form className="flex items-center justify-between w-full space-x-2">
           <input
             className="flex h-10 w-full rounded-md border border-[#e5e7eb] px-3 py-2 text-sm placeholder-[#6b7280] focus:outline-none focus:ring-2 focus:ring-[#9ca3af] disabled:cursor-not-allowed disabled:opacity-50 text-[#030712] focus-visible:ring-offset-2 overflow-hidden"
