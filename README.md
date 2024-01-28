@@ -10,8 +10,8 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 ## Architechture
 ![arc](https://github.com/trisha-thakur/Raasta/assets/107291403/e67ef8d5-5ede-4564-aeaa-c9ef726f2f33)
 
-- ### Custom Data Optimization:
-   The RAG (Retrieval-Augmented Generation) stands out from traditional Language Models (LLMs) by leveraging custom data, a crucial factor that enhances accuracy and reliability in model outputs. Used `mistral 7B model ` with `Embedchain` Framework
+- ### Custom Data Optimization: 🐏🐏
+   The RAG (Retrieval-Augmented Generation) stands out from traditional Language Models (LLMs) by leveraging custom data, a crucial factor that enhances accuracy and reliability in model outputs. Used `mistral 7B model` with `Embedchain` Framework
 
 - ### Vectorized Input Processing:
   Input documents undergo conversion into vectors, and these vectors are efficiently stored in a database that is `vector db` here.
@@ -29,10 +29,11 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
    The incorporation of real-time data ensures that the RAG remains up-to-date, particularly in the context of urban mobility and route recommendations. This feature contributes to the model's adaptability and responsiveness.
 - ### Lax.ai works on Google Maps API and a custom Machine learning model that predicts what is the most economic mode of travel between the given two places
 
-- ### Challan Feature has  OCR Feature using `pytesseract` that extracts the info from the image and is added to the chatbot's knowledge base for additonal questioning
-- ###  A common chatbot that supports all your queries regarding the road safety and any important topic related to the travel , It supports `22 Indic Languages` and is powered by `AI4Bharat` 's model `INDICTRANS2` LLM .
-- ### The query chatbot also has Speech to Speech conversation feature made out of a pipeline of `Distilled Whisper LLM` and `gTTS` , additionally we have also tested `PLAYHT` for the same usecase
-- ### The RAG models like Llama2 was finetuned with efficient hyper parameter methods like ` Qlora` to save the VRAM efficiency
+- ### Challan Feature has OCR Feature using `pytesseract` that extracts the info from the image and is added to the chatbot's knowledge base for additional questioning
+- ###  A common chatbot that supports all your queries regarding road safety and any important topic related to travel, It supports `22 Indic Languages` and is powered by `AI4Bharat's` model `INDICTRANS2` LLM.
+- ### The query chatbot also has Speech to Speech conversation feature made out of a pipeline of `Distilled Whisper LLM` and `gTTS`, additionally we have also tested `PLAYHT` for the same use case
+- ### The RAG models like Llama2 were fine-tuned with efficient hyper-parameter methods like `Qlora` to save the VRAM efficiency
+
 ## Tech Stack
 
 ### Web:
