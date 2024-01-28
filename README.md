@@ -5,7 +5,33 @@
 In bustling cities, such as those in India, transportation apps encounter challenges in providing quick and effective solutions due to diverse languages spoken by the users. Moreover, there is a significant issue related to transparent cost estimates for individuals with budget constraints.
 
 ## Our Solution 📱
-Raasta employs a diverse set of AI tools to effectively eliminate linguistic and economic barriers in the realm of urban mobility. With this innovative solution, users can effortlessly access real-time traffic advisories in their preferred language. Furthermore, Raasta goes a step further by providing personalized route suggestions based on the user's budget, ensuring a seamless and cost-effective travel experienc
+Raasta employs a diverse set of AI tools to effectively eliminate linguistic and economic barriers in the realm of urban mobility. With this innovative solution, users can effortlessly access real-time traffic advisories in their preferred language. Furthermore, Raasta goes a step further by providing personalized route suggestions based on the user's budget, ensuring a seamless and cost-effective travel experience
+
+## Key Features 🤖
+
+- Lax.ai Integration: 🦾
+  - Utilizes Lax.ai for predicting the most economic mode of travel between two locations.
+
+- Challan Reader: 📄
+  - OCR feature using `pytesseract` to extract information from images (challans in traffic safety being issued).
+
+- Voice to Voice Support: 🗣
+  - Speech to Speech conversation feature using Distilled Whisper LLM, gTTS, and PLAYHT.
+
+- Live Support: 🔬
+  - Integrates real-time data, including live updates on traffic and routes through Google Maps APIs.
+
+- RAG Models with Custom Data: 📊
+  - Uses Retrieval-Augmented Generation (RAG) models with custom data for accurate and reliable outputs.
+
+- Fine-tuned on Specific Dataset: 📈
+  - RAG models like Llama2 are fine-tuned for more effective performance on a specific dataset.
+
+- Website Interface: 💻
+  - User-friendly website interface for easy interaction and navigation.
+
+- New Tech Integration: 🛠
+  - Incorporates new technologies and frameworks for improved efficiency and functionality.
 
 ## Architechture 🐏🐏
 ![arc](https://github.com/trisha-thakur/Raasta/assets/107291403/e67ef8d5-5ede-4564-aeaa-c9ef726f2f33)
