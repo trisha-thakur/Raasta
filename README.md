@@ -34,7 +34,8 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
   - Incorporates new technologies and frameworks for improved efficiency and functionality.
 
 ## Architechture 🐏🐏
-![arc](https://github.com/trisha-thakur/Raasta/assets/107291403/e67ef8d5-5ede-4564-aeaa-c9ef726f2f33)
+<img width="473" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/35c92c2b-bbe7-4ab0-84f2-534f2ca1d43c">
+
 
 - ### Custom Data Optimization: 
    The RAG (Retrieval-Augmented Generation) stands out from traditional Language Models (LLMs) by leveraging custom data, a crucial factor that enhances accuracy and reliability in model outputs. Used `mistral 7B model` with `Embedchain` Framework
