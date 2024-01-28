@@ -97,6 +97,41 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 
 
 
+## Future Scope and Scalability 🚀
+
+Raasta envisions further enhancements and scalability to meet evolving user needs and technological advancements:
+
+- **Expansion of Live Data Integration:**
+  - Future iterations will focus on expanding the integration of real-time data, including live updates on traffic, routes, and other dynamic information, into the database.
+
+- **Memory Augmentation for Chatbot:**
+  - To enhance the chatbot's capabilities, future plans include memory augmentation strategies. This involves increasing the memory allocated to the chatbot for better recall and responsiveness.
+
+- **Scalability Through Additional Memory:**
+  - Scalability is a key consideration, and plans involve increasing memory capacity to accommodate growing data and user interactions effectively.
+
+- **Fine-tuning of All Models:**
+  - Continuous refinement and fine-tuning of all models, including RAG models like Llama2, are on the roadmap. This ensures optimal performance and adaptability to diverse scenarios.
+
+- **Improved Pipelines with Docker:**
+  - Implementation of better pipelines, including Docker containers, to streamline deployment processes and enhance overall system efficiency. Dockerization provides a modular and scalable approach to managing different components.
+
+- **Enhanced Data Processing:**
+  - Future developments aim to incorporate advanced data processing techniques, allowing for faster and more efficient handling of large datasets and live updates.
+
+- **Dynamic Language Support:**
+  - Expanding language support for the chatbot to include more languages, making Raasta accessible to an even wider user base.
+
+- **User Feedback Mechanism:**
+  - Implementing a robust user feedback mechanism to gather insights, identify areas for improvement, and ensure a user-centric approach in future updates.
+
+- **Optimization for Low Resource Environments:**
+  - Considerations for optimizing the system to operate effectively in low resource environments, ensuring accessibility across a spectrum of devices and network conditions.
+
+- **Security Enhancements:**
+  - Strengthening security measures to safeguard user data and maintain the integrity of the system.
+
+Raasta remains committed to continuous innovation, adaptability, and providing an ever-improving urban mobility solution.
 
 
 
