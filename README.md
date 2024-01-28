@@ -81,7 +81,8 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 ## Web Implementation
 ![WhatsApp Image 2024-01-28 at 14 19 28_ac27fe53](https://github.com/trisha-thakur/Raasta/assets/107291403/69780779-e83e-4674-8482-fe7736ae240a)
 
-![WhatsApp Image 2024-01-28 at 14 19 46_14049146](https://github.com/trisha-thakur/Raasta/assets/107291403/beb42927-8d3f-4cf3-9342-ca8d12435d01)
+![WhatsApp Image 2024-01-28 at 16 19 43](https://github.com/trisha-thakur/Raasta/assets/34826479/dc168be1-a623-4a68-85c8-361a6111713d)
+
 
 ![WhatsApp Image 2024-01-28 at 16 03 08](https://github.com/trisha-thakur/Raasta/assets/34826479/e85e8979-965f-4663-986b-b3415f7e7a1a)
 
@@ -96,7 +97,6 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 ![WhatsApp Image 2024-01-28 at 14 21 41](https://github.com/trisha-thakur/Raasta/assets/34826479/d45e1a7c-1a6f-4d90-8132-7a1f96c69ef2)
 
 
-![WhatsApp Image 2024-01-28 at 16 19 43](https://github.com/trisha-thakur/Raasta/assets/34826479/dc168be1-a623-4a68-85c8-361a6111713d)
 
 
 
