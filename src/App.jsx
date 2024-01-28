@@ -3,6 +3,7 @@ import Home from './components/Home'
 import Updates from './components/Updates'
 import LaxAI from './components/LaxAI'
 import Chalaan from './components/Chalaan'
+import Chatbot from './components/Chatbot'
 import Footer from './components/Footer'
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Updates />
       <LaxAI/>
       <Chalaan/>
+      {/* <Chatbot/>  */}
       <Footer/>
     </div>
   )

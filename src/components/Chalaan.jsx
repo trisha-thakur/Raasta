@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
-import axios from 'axios';
+import React, { useState } from "react";
+import axios from "axios";
 
 const Chalaan = () => {
   const [image, setImage] = useState(null);
-  const [ocrResult, setOcrResult] = useState('');
-  const [question, setQuestion] = useState('');
-  const [queryResult, setQueryResult] = useState('');
+  const [ocrResult, setOcrResult] = useState("");
+  const [question, setQuestion] = useState("");
+  const [queryResult, setQueryResult] = useState("");
 
   const handleImageUpload = (event) => {
     const file = event.target.files[0];
@@ -22,25 +22,25 @@ const Chalaan = () => {
 
   const handleOCR = async () => {
     try {
-      const response = await axios.post('http://172.20.10.3:5000/upload', {
+      const response = await axios.post("http://172.20.10.3:5000/upload", {
         imageData: image,
       });
 
       setOcrResult(response.data.text);
     } catch (error) {
-      console.error('Error performing OCR:', error);
+      console.error("Error performing OCR:", error);
     }
   };
 
   const handleQuery = async () => {
     try {
-      const response = await axios.post('http://172.20.10.3:5000/query2', {
+      const response = await axios.post("http://172.20.10.3:5000/query2", {
         prompt: ocrResult,
       });
 
       setQueryResult(response.data.answer);
     } catch (error) {
-      console.error('Error querying:', error);
+      console.error("Error querying:", error);
     }
   };
 
@@ -61,9 +61,9 @@ const Chalaan = () => {
         Perform OCR
       </button>
 
-      <div className="w-full sm:w-96">
-        <strong>OCR Result:</strong>
-        <p className="mb-4">{ocrResult}</p>
+      <div className="flex flex-col sm:flex-row w-full sm:w-96 mb-4">
+        <strong className="mr-2">OCR Result:</strong>
+        <p>{ocrResult}</p>
       </div>
 
       <input

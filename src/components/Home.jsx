@@ -1,14 +1,15 @@
-// Home.js
+// Home.jsx
 import React, { useState } from "react";
 import Button from "../ui/Button";
 import Updates from "./Updates";
+import Chatbot from "./Chatbot";
 
 const Home = () => {
   const [showUpdates, setShowUpdates] = useState(false);
+  const [showChatbot, setShowChatbot] = useState(false);
 
-  const handleClick = () => {
-    setShowUpdates(true);
-    console.log("button pressed");
+  const toggleChatbot = () => {
+    setShowChatbot(!showChatbot);
   };
 
   return (
@@ -19,12 +20,11 @@ const Home = () => {
       >
         <h1 className="text-4xl md:text-8xl text-white">RAASTA</h1>
       </div>
-      {/* <div className="flex space-x-4 mt-5">
-        <Button onClick={handleClick}>Updates</Button>
-        <Button>LaxAI</Button>
-        <Button>My Documents</Button>
-      </div>  */}
+      <div className="flex text-white space-x-4 mt-5">
+        <Button onClick={toggleChatbot}>Chat with Raasta</Button>
+      </div>
       {showUpdates && <Updates />}
+      {showChatbot && <Chatbot onClose={() => setShowChatbot(false)} />}
     </div>
   );
 };
