@@ -164,13 +164,14 @@ Raasta remains committed to continuous innovation, adaptability, and providing a
  
 <img width="128" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/366b0b72-ea84-4f62-a7b5-2ca509441521">
 
-<img width="476" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/0b21b859-16fb-49c2-b6ec-0f5e29c0ec2d">
+
 
 <img width="457" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/85c62500-285f-42bb-9755-da1d65ac54f0">
 
+<img width="476" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/0b21b859-16fb-49c2-b6ec-0f5e29c0ec2d">
+
 <img width="453" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/8472ce06-7dfa-4304-8362-5a8d6ff718fa">
 
-<img width="476" alt="image" src="https://github.com/trisha-thakur/Raasta/assets/34826479/ef339e85-9f8f-4333-a162-4fd3e98eb4c3">
 
 
 
