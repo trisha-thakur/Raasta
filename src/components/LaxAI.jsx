@@ -56,7 +56,7 @@ const LaxAI = () => {
 
       <div className="absolute bottom-0 left-0 mt-5 mb-0 ml-0 z-0">
         <div className="ml-10">
-          <p className="overflow-hidden max-w-[500px] text-[#F1E4C3] text-xl">
+          <p className="overflow-hidden invisible md:visible md:max-w-[500px] text-[#F1E4C3] text-xl">
             LAXAI is your personal AI assistant that will suggest you how to get
             to your desired destination on the given budget.
           </p>
