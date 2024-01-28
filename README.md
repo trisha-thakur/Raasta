@@ -7,10 +7,10 @@ In bustling cities, such as those in India, transportation apps encounter challe
 ## Our Solution 📱
 Raasta employs a diverse set of AI tools to effectively eliminate linguistic and economic barriers in the realm of urban mobility. With this innovative solution, users can effortlessly access real-time traffic advisories in their preferred language. Furthermore, Raasta goes a step further by providing personalized route suggestions based on the user's budget, ensuring a seamless and cost-effective travel experienc
 
-## Architechture
+## Architechture 🐏🐏
 ![arc](https://github.com/trisha-thakur/Raasta/assets/107291403/e67ef8d5-5ede-4564-aeaa-c9ef726f2f33)
 
-- ### Custom Data Optimization: 🐏🐏
+- ### Custom Data Optimization: 
    The RAG (Retrieval-Augmented Generation) stands out from traditional Language Models (LLMs) by leveraging custom data, a crucial factor that enhances accuracy and reliability in model outputs. Used `mistral 7B model` with `Embedchain` Framework
 
 - ### Vectorized Input Processing:
