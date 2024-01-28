@@ -21,7 +21,7 @@
 #### TailwindCSS
 #### Flask
 
-### ML
+### ML:
 
 #### Data Scraping for real-time data(selenium & Beautiful soup). 
 #### RAG powered models.(Mistral 7B model with finetuning)
@@ -29,7 +29,10 @@
 
 ## Web Implementation
 ![WhatsApp Image 2024-01-28 at 14 19 28_ac27fe53](https://github.com/trisha-thakur/Raasta/assets/107291403/69780779-e83e-4674-8482-fe7736ae240a)
+
 ![WhatsApp Image 2024-01-28 at 14 19 46_14049146](https://github.com/trisha-thakur/Raasta/assets/107291403/beb42927-8d3f-4cf3-9342-ca8d12435d01)
+
+
 
 
 
