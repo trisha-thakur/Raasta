@@ -92,6 +92,8 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 
 ![WhatsApp Image 2024-01-28 at 14 20 06](https://github.com/trisha-thakur/Raasta/assets/34826479/911e9da0-9d6e-4106-9830-cdb62dd44810)
 
+![WhatsApp Image 2024-01-28 at 16 03 07](https://github.com/trisha-thakur/Raasta/assets/34826479/b5c6e24d-a232-40bc-8fa5-3e3ae1506fa9)
+
 ![WhatsApp Image 2024-01-28 at 14 20 28](https://github.com/trisha-thakur/Raasta/assets/34826479/21047fdf-67b3-47a3-88aa-d0a0fafb9691)
 
 
