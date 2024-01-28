@@ -5,6 +5,7 @@ import LaxAI from './components/LaxAI'
 import Chalaan from './components/Chalaan'
 import Chatbot from './components/Chatbot'
 import Footer from './components/Footer'
+import Map from './components/Map'
 function App() {
   return (
     <div>
@@ -12,6 +13,7 @@ function App() {
       <Updates />
       <LaxAI/>
       <Chalaan/>
+      <Map/>
       {/* <Chatbot/>  */}
       <Footer/>
     </div>

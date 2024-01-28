@@ -13,6 +13,20 @@ const LaxAI = () => {
     setIsModalOpen(false);
   };
 
+  // Dummy data for LAXAI modal content
+  const modalContent = (
+    <>
+      <p className="text-lg text-black ">
+        Potheri to Tambaram : Train @ Rs.10
+        Tambaram to Vandalur : Auto @ Rs. 60
+        Vandalur to Tambaram : Bus @ Rs.20
+      </p>
+      {/* <p className="text-lg text-black mt-4">
+        It provides personalized suggestions on transportation options, routes, and travel tips to make your trip enjoyable.
+      </p> */}
+    </>
+  );
+
   return (
     <section className="h-screen w-full pt-8 pb-24 font-bold bg-[#597E52] heading relative left-0 right-0">
       <h1 className="text-4xl md:text-7xl ml-10 text-[#F1E4C3]">LAXAI</h1>
@@ -66,11 +80,7 @@ const LaxAI = () => {
       </div>
 
       {/* Modal */}
-      <Modal isOpen={isModalOpen} onClose={closeModal}>
-        <p className="text-2xl text-black">
-          Modal content: Information on how to reach the destination.
-        </p>
-      </Modal>
+      <Modal isOpen={isModalOpen} onClose={closeModal} content={modalContent} />
     </section>
   );
 };
