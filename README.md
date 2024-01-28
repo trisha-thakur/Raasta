@@ -90,6 +90,8 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 
 ![WhatsApp Image 2024-01-28 at 16 25 37](https://github.com/trisha-thakur/Raasta/assets/34826479/9e6e8d3d-890e-4f28-b334-8029193755bf)
 
+### Lax.ai 
+
 ![WhatsApp Image 2024-01-28 at 16 03 08](https://github.com/trisha-thakur/Raasta/assets/34826479/e85e8979-965f-4663-986b-b3415f7e7a1a)
 
 ![WhatsApp Image 2024-01-28 at 14 20 06](https://github.com/trisha-thakur/Raasta/assets/34826479/911e9da0-9d6e-4106-9830-cdb62dd44810)
