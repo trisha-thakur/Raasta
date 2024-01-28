@@ -78,11 +78,15 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 - OCR models for image to text
 
 
-## Web Implementation
+## Implementation of Raasta 🎇
+
+#### Home Page View
+
 ![WhatsApp Image 2024-01-28 at 14 19 28_ac27fe53](https://github.com/trisha-thakur/Raasta/assets/107291403/69780779-e83e-4674-8482-fe7736ae240a)
 
-![WhatsApp Image 2024-01-28 at 16 19 43](https://github.com/trisha-thakur/Raasta/assets/34826479/dc168be1-a623-4a68-85c8-361a6111713d)
+![WhatsApp Image 2024-01-28 at 16 22 48](https://github.com/trisha-thakur/Raasta/assets/34826479/01fc9ee6-004c-41ed-bb3c-84806a00b6bd)
 
+### Chatbot with Language Support
 
 ![WhatsApp Image 2024-01-28 at 16 03 08](https://github.com/trisha-thakur/Raasta/assets/34826479/e85e8979-965f-4663-986b-b3415f7e7a1a)
 
@@ -91,10 +95,12 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 ![WhatsApp Image 2024-01-28 at 14 20 28](https://github.com/trisha-thakur/Raasta/assets/34826479/21047fdf-67b3-47a3-88aa-d0a0fafb9691)
 
 
-![WhatsApp Image 2024-01-28 at 16 03 07](https://github.com/trisha-thakur/Raasta/assets/34826479/b5c6e24d-a232-40bc-8fa5-3e3ae1506fa9)
+
 
 
 ![WhatsApp Image 2024-01-28 at 14 21 41](https://github.com/trisha-thakur/Raasta/assets/34826479/d45e1a7c-1a6f-4d90-8132-7a1f96c69ef2)
+
+![WhatsApp Image 2024-01-28 at 16 03 07](https://github.com/trisha-thakur/Raasta/assets/34826479/b5c6e24d-a232-40bc-8fa5-3e3ae1506fa9)
 
 
 
