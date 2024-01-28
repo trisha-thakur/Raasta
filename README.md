@@ -59,7 +59,7 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 - ### Challan Feature has OCR Feature using `pytesseract` that extracts the info from the image and is added to the chatbot's knowledge base for additional questioning
 - ###  A common chatbot that supports all your queries regarding road safety and any important topic related to travel, It supports `22 Indic Languages` and is powered by `AI4Bharat's` model `INDICTRANS2` LLM.
 - ### The query chatbot also has Speech to Speech conversation feature made out of a pipeline of `Distilled Whisper LLM` and `gTTS`, additionally we have also tested `PLAYHT` for the same use case
-- ### The RAG models like Llama2 were fine-tuned with efficient hyper-parameter methods like `Qlora` to save the VRAM efficiency
+- ### The RAG models like Llama2 were fine-tuned with PEFT — Parameter Efficient Fine Tuning methods like `Qlora` to save the VRAM efficiency
 
 ## Technology Used 💻
 
